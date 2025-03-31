@@ -1,0 +1,1 @@
+# SenCare_ProiectIP
