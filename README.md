@@ -1,4 +1,4 @@
-**Membrii proiectului**
+###Membrii proiectului SenCare
 
 Paul Mura - *modul EMBEDDED*  
 
