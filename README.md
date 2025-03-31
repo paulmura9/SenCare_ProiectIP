@@ -1,4 +1,4 @@
-# Membrii proiect
+**Membrii proiectului**
 
 Paul Mura - *modul EMBEDDED*  
 
