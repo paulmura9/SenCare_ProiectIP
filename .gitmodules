@@ -1,0 +1,6 @@
+[submodule "SenCare-Web"]
+	path = SenCare-Web
+	url = https://github.com/mandreea1/SenCare-Web.git
+[submodule "SenCare__Mobile_App_Android"]
+	path = SenCare__Mobile_App_Android
+	url = git@github.com:StefanOleniuc/SenCare__Mobile_App_Android.git
